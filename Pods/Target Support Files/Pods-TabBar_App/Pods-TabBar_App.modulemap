@@ -1,0 +1,6 @@
+framework module Pods_TabBar_App {
+  umbrella header "Pods-TabBar_App-umbrella.h"
+
+  export *
+  module * { export * }
+}
